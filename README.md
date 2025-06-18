@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khadeeja</h1>
 <h3 align="center">Figuring out tech</h3>
+<p align="center">
+  <img src="[https://your-image-url.com/image.png](https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif)" alt="Tech Illustration" width="300"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadeejaarshad&label=Profile%20views&color=0e75b6&style=flat" alt="khadeejaarshad" /> </p>
 
